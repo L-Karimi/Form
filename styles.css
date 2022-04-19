@@ -3,10 +3,10 @@ body {
   align-items: center;
 }
 .header1{
-  color: brown;
+  color: rgb(190, 54, 54);
 }
 h3{
-  color: brown;
+  color: rgb(194, 48, 48);
 }
 .container {
   display: flex;
@@ -16,6 +16,10 @@ h3{
 }
 header{
   margin-left: 60%;
+
+}
+.class{
+  padding-left: 150px;
 
 }
 .box1 {

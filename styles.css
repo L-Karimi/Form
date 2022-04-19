@@ -41,6 +41,9 @@ header{
   display: inline-block;
   font-size: 13px;
 }
+.account{
+  background-color: rgb(212, 23, 156);
+}
 .fa {
   padding: 1px;
   width: 50px;

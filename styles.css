@@ -47,6 +47,14 @@ header{
 }
 .account{
   background-color: rgb(212, 23, 156);
+  border-radius: 3px;
+  text-align: center;
+  border: none;
+  display: inline-block;
+
+  font-size: 13px;
+
+
 }
 .fa {
   padding: 1px;
